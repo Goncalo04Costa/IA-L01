@@ -1,5 +1,5 @@
 
-# Projeto 1 para a  uc de IA 
+# Projeto 1 para a  UC  de IA 
 Este trabalho foi desenvolvido no âmbito da unidade curricular de Inteligência artificial, com o objetivo de resolver um problema de planeamento de tarefas utilizando algoritmos de inteligência artificial.
 O projeto foi realizado em equipa pelo grupo L01, composto pelos seguintes elementos:
 
