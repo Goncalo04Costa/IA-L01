@@ -7,11 +7,11 @@ O projeto foi realizado em equipa pelo grupo L01, composto pelos seguintes eleme
 *   Daniela Pereira    (26988)
 *   Gonçalo Costa    (26024)
 
-Para implementar a solução, optámos por utilizar a ferramenta Google Colab, devido à sua versatilidade e integração com bibliotecas de inteligência artificial.
+Para implementar a solução, optámos por utilizar a ferramenta Google Colab, devido à sua versatilidade e integração com bibliotecas de pesquisa de soluções.
 
 O objetivo geral é desenvolver uma solução capaz de programar todas as tarefas de um projeto, minimizando atrasos e otimizando a alocação de recursos, garantindo a execução eficiente no menor tempo possível.
 
-###**Formulação do objetivo**
+### **Formulação do objetivo**
 O objetivo do trabalho é encontrar uma solução ótima para o planeamento de tarefas, considerando restrições e diferentes formas de execução. Os principais objetivos englobam:
 
 Minimizar atrasos no projeto.
