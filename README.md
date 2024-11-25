@@ -18,6 +18,6 @@ Minimizar atrasos no projeto.
 Utilizar eficientemente os recursos disponíveis.
 Obter a solução com a pontuação mais elevada dentro de um período de tempo pré-determinado.
 
-###**Limitações**
+### **Limitações**
 As restrições consideradas no projeto são exclusivamente restrições fortes, ou seja, condições que precisam ser obrigatoriamente cumpridas para que a solução seja válida.
 Apenas uma implementação por vez pode ser avaliada, o que pode limitar a exploração de múltiplas soluções em paralelo.
